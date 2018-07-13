@@ -1,0 +1,2 @@
+# beautiful_thing_spider
+爬取并下载某色情网站的最新视频,可能会因为网址变动而失效
